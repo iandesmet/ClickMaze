@@ -1,0 +1,8 @@
+https://www.openprocessing.org/sketch/977546
+https://www.openprocessing.org/sketch/172603
+http://geniusgamedev.eu/canvas/canvas/maze_game.html
+https://orb.enclavegames.com/
+https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/isPointInPath
+https://stackoverflow.com/questions/58019339/how-do-i-add-fillstyle-to-path2d-js-canvas
+https://stackoverflow.com/questions/1071356/is-it-possible-to-hide-the-cursor-in-a-webpage-using-css-or-javascript
+https://stackoverflow.com/questions/1071356/is-it-possible-to-hide-the-cursor-in-a-webpage-using-css-or-javascript

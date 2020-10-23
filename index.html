@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/style.css">
+	<title>OMC - Ian De Smet</title>
+</head>
+
+<body>
+	<article class="game">
+		<h1 class="game__title">Click Maze</h1>
+		<p class="game__description">Don't get lost.</p>
+	</article>
+	<div class="game__wrapper">
+		<div class="cursor"></div>
+		<canvas width="720" height="720" id="canvas"></canvas>
+		<div class="info__wrapper">
+			<article class="counter">
+				<h2 class="counter__title">Click Counter</h2>
+				<p class="counter__number">0</p>
+			</article>
+			<article class="timer">
+				<h2 class="timer__title">Timer</h2>
+				<p class="timer__number">20 seconds</p>
+			</article>
+			<button class="game__restart">Restart</button>
+			<p class="game__remark"></p>
+			<article class="results"></article>
+			<h2 class="results__title">Result</h2>
+			<ul class="results__list"></ul>
+			<article class="rules">
+				<h2 class="rules__title">Rules</h2>
+				<p class="rules__text">1. Don't hit the walls</p>
+				<p class="rules__text">2. Finish in time</p>
+				<p class="rules__text">3. Click as much as possible</p>
+			</article>
+		</div>
+	</div>
+	<script type="module" src="js/script.js"></script>
+</body>
+
+</html>
